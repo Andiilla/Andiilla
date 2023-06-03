@@ -27,8 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://twitter.com/andiillaervs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andiillaervs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andi-illa-erviani-nensi-22b3481b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andi-illa-erviani-nensi-22b3481b9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andi-illa-erviani-nensi-22b3481b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andiilla" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22006680/andi-illa-erviani-nensi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22006680/andi-illa-erviani-nensi" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/andiillaervs023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/andiillaervs023" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/andiilla.ervs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/andiilla.ervs/" height="30" width="40" /></a>
