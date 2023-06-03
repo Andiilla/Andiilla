@@ -34,7 +34,7 @@
 <a href="https://www.kaggle.com/andiillaervs023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Andiilla" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andiilla.ervs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Andiilla" height="30" width="40" /></a>
 <a href="https://medium.com/@andiillarvianinensi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Andiilla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucvlzqrhufuuruqmlvrh9zwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Andiilla" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvlzQRHUFUurUQMLvRh9zwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Andiilla" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me/ML-06%20Andi%20Illa%20Erviani%20Nensi#1973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Andiilla" height="30" width="40" /></a>
 </p>
 
