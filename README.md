@@ -160,7 +160,7 @@
         </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andiilla&show_icons=true&locale=en&layout=compact" alt="andiilla" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andiilla&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="andiilla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.herokuapp.com/?user=andiilla&" alt="andiilla" /></p>
 
 
